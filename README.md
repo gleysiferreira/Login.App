@@ -1,4 +1,4 @@
-<img src="./assets/login.png" alt="Logo Yoga">
+<img src="./assets/login.png" alt="Login App">
 
 > Resultado do Projeto Login APP.
 ### Ajustes e melhorias
